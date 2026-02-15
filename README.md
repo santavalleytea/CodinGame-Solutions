@@ -12,11 +12,13 @@ This repository contains my solutions to various CodinGame puzzles.
 ---
 
 ## 📂 Structure
+```
 ├── easy/
 ├── medium/
 ├── hard/
 ├── optimization/
 ├── events/
+```
 
 ## 🛠 Languages Used
 
